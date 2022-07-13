@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo, eu sou Ricardo Araújo.
 
-- 🔭 Estou a procura da minha primeira vaga para Desenvolvedor.
-- 🌱 Estudando no momento ReactJS, Node.JS.
+- 🔎 Estou a procura da minha primeira vaga para Desenvolvedor.
+- 📚 Estudando no momento ReactJS, Node.JS.
 <div>
 <a href="https://github.com/ricardev7">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardev7&show_icons=true&theme=dark">
